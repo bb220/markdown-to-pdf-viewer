@@ -1,6 +1,6 @@
 # Markdown Viewer & PDF Export
 
-A local web server that renders `resume.md` with live-reloading and PDF export capabilities.
+A local web server that renders `resume.md` with live-reloading and vector PDF export capabilities.
 
 ![markdown-to-pdf-demo - Made with Clipchamp](https://github.com/user-attachments/assets/4f8dd197-4999-49e4-9a94-0b1cbd86716e)
 
@@ -8,7 +8,7 @@ A local web server that renders `resume.md` with live-reloading and PDF export c
 
 - **Live Reload**: Automatically updates the browser when you save changes to `resume.md`
 - **PDF Export**: One-click PDF file generation
-- **Text-Based PDF**: Creates an ATS friendly text-based PDF file with crisp rendering. No rasterizing.
+- **Text-Based PDF**: Creates an ATS friendly vector PDF file with crisp rendering. No rasterizing.
 
 ## Prerequisites
 
