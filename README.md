@@ -2,6 +2,8 @@
 
 A local web server that renders `resume.md` with live-reloading and PDF export capabilities.
 
+![markdown-to-pdf-demo - Made with Clipchamp](https://github.com/user-attachments/assets/4f8dd197-4999-49e4-9a94-0b1cbd86716e)
+
 ## Features
 
 - **Live Reload**: Automatically updates the browser when you save changes to `resume.md`
