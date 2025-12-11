@@ -1,4 +1,4 @@
-# Markdown Resume Viewer & PDF Export
+# Markdown Viewer & PDF Export
 
 A local web server that renders `resume.md` with live-reloading and PDF export capabilities.
 
